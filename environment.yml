@@ -1,0 +1,9 @@
+name: assembly
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - nasm
+  - vim
+
